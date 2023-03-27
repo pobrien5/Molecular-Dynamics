@@ -14,7 +14,9 @@ Instructions on how to use it are given below.
 (0) Unzip the compressed file into a location of your choice.
 This file contains two python scripts - One to run the simulation
 (MD_simulation.py) and one to plot the data (MD_plots.py).
+
 (1) Launch MD_simulation.py with your favourite python environment.
+
 (2) Set your simulation parameters...
 
 	line 12: Temp = ?? (float)
